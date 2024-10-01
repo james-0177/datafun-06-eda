@@ -23,7 +23,7 @@ git add .
 git commit -m "create Project 6 repo, .gitignore, .venv, and README"
 git push -u origin main
 ```
-## Install dependencies
+## Install external dependencies
 
 ```shell
 py -m pip install -r requirements.txt
