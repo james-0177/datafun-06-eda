@@ -38,3 +38,7 @@ This project was built to the following specification:
 ## Dataset
 
 Project 6 will make use of the flights.csv dataset obtained from the seaborn library located at the following url:  https://github.com/mwaskom/seaborn-data/blob/master/flights.csv. This csv file has been copied into the Project 6 repository. The dataset contains information of flights between 1949 and 1960 and includes the year, month, and number of passengers.
+
+## Project Implementation
+
+Jupyter Notebook was used to load the flights.csv dataset and perform a number of python scripts on that dataset, including transforming the dataset into two different data structures:  long form and wide form. The two data structures were then compared using different visualizations.
